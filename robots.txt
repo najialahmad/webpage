@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sitemap.najielahmad.com/sitemap.xml
+Sitemap: https://najialahmad.github.io/webpage/sitemap.xml
